@@ -33,7 +33,7 @@ val Project.bintrayApiKey: String?
 
 object Bintray {
     const val mavenUrl = "https://dl.bintray.com/uzzu/sandbox"
-    const val repo = "maven"
+    const val repo = "sandbox"
     const val packageName = "gtool"
     const val desc = MavenPublications.description
     const val userOrg = MavenPublications.organization
